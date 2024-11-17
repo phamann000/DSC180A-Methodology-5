@@ -12,12 +12,12 @@ One of the most interesting topics covered in my domain this quarter occurred wh
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-A potential investigation for project 2 is using our quarter 1 model ,which detects and predicts unusual variants in genomic data, to search for drug resistant strains of bacteria. This may be a possible avenue to explore because bacteria need to mutate, causing changes in their genome, in order to become drug resistant so we hope to find what nucleotides may be associated with drug resistance in a certain bacteria like malaria.
+A potential investigation for project 2 is using our quarter 1 model ,which detects and predicts unusual variants in genomic data, to search for drug resistant strains of bacteria. This may be a possible avenue to explore because bacteria need to mutate, causing changes in their genome, in order to become drug resistant so we hope to find what nucleotides may be associated with drug resistance in a certain bacteria like malaria. However, as we are behind in our quarter 1 project this may not pan out as we expect or the model may not perform as well on bacteria data. If this is the case, than another potential project is trying to compare the genomic data of individuals who are exposed or not exposed to certain toxins as toxins, like those found in cigarettes, are thought to cause changes on the genomic level, so it could be interesting if we can predict whether or not someone has been exposed to cigarette smoke depending on their genes.
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
-A potential change in approach is assigning more specific coding tasks in order to better guide and help the timeline of model production as I feel as if we are a bit behind in developing our model.
+A potential change in approach is assigning more specific coding tasks in order to better guide and help the timeline of model production as I feel as if we are a bit behind in developing our model. By expecting the completion of specific tasks, I think we can push our project to completion faster.
 
 **What other techniques would you be interested in using in your project?**
 
-I'm not sure of other techniques I'd be interested in using in my project. Currently we are developing a dilated convolution type model to predict genetic variants, but part of the mentor team specializes more in transformer models, so it could be interesting to pivot or compare how a transformer model performs vs. how a dilated convolution model performs.
+I'm not sure of other techniques I'd be interested in using in my project. Currently we are developing a dilated convolution type model to predict genetic variants, but part of the mentor team specializes more in transformer models, so it could be interesting to pivot or compare how a transformer model performs vs. how a dilated convolution model performs, and explore what the differences between the two are.
